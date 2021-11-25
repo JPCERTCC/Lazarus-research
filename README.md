@@ -29,3 +29,6 @@ Python to decode POST data for BLINDINGCAN_AES.
   - https://github.com/JPCERTCC/Lazarus-research/blob/main/slides/CODEBLUE2021_The-Lazarus-Groups-Attack-Operations-Targeting-Japan.pdf
 
 ### TTPs
+
+* MITRE ATT&CK® Mapping for Lazarus Group
+  - https://github.com/JPCERTCC/Lazarus-research/blob/main/TTP/MITRE_ATT%26CK_Mapping.md
